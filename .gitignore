@@ -2,3 +2,10 @@
 __pycache__/
 .DS_Store
 *.tmp
+
+# Ignore Anaconda and environment cache
+.conda/
+.conda_envs/
+.env/
+venv/
+*.log
