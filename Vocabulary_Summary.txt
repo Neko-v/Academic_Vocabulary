@@ -38,3 +38,13 @@ Sampling
 Denoising
 Latent
 Reconstruction
+Context
+Interaction
+Planning
+Reasoning
+Execution
+Coordination
+Resolution
+Upsampling
+Refinement
+Compositing
